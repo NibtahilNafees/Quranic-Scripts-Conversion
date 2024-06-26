@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project focuses on converting Quranic scripts from the Uthmani style to the IndoPak style and vice versa using Python. It involves text processing techniques to ensure accurate and meaningful conversion, preserving the integrity of the script.
+This project focuses on converting Quranic scripts from the Uthmani style to the IndoPak style and vice versa using Python. It involves text processing techniques to ensure accurate and meaningful conversion, preserving the script's integrity.
 
 **Project Description**
 
@@ -10,7 +10,7 @@ The main objective of this project is to provide a tool for converting Quranic t
 
 **Features**
 
-Script Conversion: Convert Quranic text from Uthmani script to IndoPak script and vice versa.
-Dictionary-based Mapping: Utilize an XML-based dictionary for accurate character mapping.
-Text Processing: Handle various text formats and special characters in the Quranic scripts.
-Comparison: Compare the converted script with a gold standard to ensure accuracy.
+**Script Conversion:** Convert Quranic text from Uthmani script to IndoPak script and vice versa.
+**Dictionary-based Mapping:** Utilize an XML-based dictionary for accurate character mapping.
+**Text Processing:** Handle various text formats and special characters in the Quranic scripts.
+**Comparison:** Compare the converted script with a gold standard to ensure accuracy.
